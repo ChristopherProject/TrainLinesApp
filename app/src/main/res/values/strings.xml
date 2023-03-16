@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TestingKotlin</string>
+    <string name="find_travel_button">Search</string>
+    <string name="search_bar_partenza_stazione">Stazione Di Partenza</string>
+    <string name="destinazione_search_bar">Stazione Di Destinazione</string>
+</resources>
